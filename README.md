@@ -1,1 +1,1 @@
-# INTELLIGENTTIG
+# IntelligentTig
