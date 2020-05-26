@@ -71,7 +71,7 @@ El chasis seria una réplica exacta de la herramienta original para simular que 
 
 ![](https://github.com/IntelligentTig/IntelligentTig/blob/master/imagenes/chasis.jpg)
 
-### FUNCIONAMIENTO PASO A PASO
+### FUNCIONAMIENTO 
 El funcionamiento se basa en las decisiones que toma el microcontrolador sobre las variables de entrada.
 Para controlarlas tenemos la programación, que tiene en cuenta las variables de entrada,que en nuestro caso serian los datos recibidos del giroscopio y sensor de distancia.
 El giroscopio y el sensor de distancia tienen 2 pines para la transmisión de datos, SDA SCL. Atraves de ellos enviaremos y recibiremos datos desde el microcontrolador.
@@ -116,8 +116,12 @@ y quitar ese chip libera ya unos 10 mAh de consumo.
   horas.
 
 
-### PLANO 
- Esquema general eléctrico  
+### PLANOS
+ Distribución de todos los componentes en nuestro simulador de TIG.
+![](https://github.com/IntelligentTig/IntelligentTig/blob/master/imagenes/tigplano.jpg)
+
+
+ Esquema general eléctrico realizador en proteus.  
 
 ![](https://github.com/IntelligentTig/IntelligentTig/blob/master/imagenes/esquemageneral.jpg)
 
@@ -159,3 +163,4 @@ https://www.thingiverse.com/
 
 Esta página la hemos utilizado para simular las partes de los montajes de nuestro proyecto.    
 https://www.tinkercad.com/
+ 
